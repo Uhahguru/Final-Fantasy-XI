@@ -3,7 +3,7 @@ FFXI Related Items Found Here.
 
 Since the 'free' GitHub has .5 GB of storage, and 1 GB of data transfers, I have included download links below for the Final Fantasy XI The Ultimate Collection Seekers Edition installers.
 
-North America:<br>  
+North America:<br>
 https://gdl.square-enix.com/ffxi/download/us/FFXIFullSetup_US.part1.exe<br>
 https://gdl.square-enix.com/ffxi/download/us/FFXIFullSetup_US.part2.rar<br>
 https://gdl.square-enix.com/ffxi/download/us/FFXIFullSetup_US.part3.rar<br>
