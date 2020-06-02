@@ -1,7 +1,6 @@
 # Final-Fantasy-XI
-<img src="Final Fantasy XI Small Banner.jpg"> 
 FFXI Related Items Found Here.
-
+<img src="Final Fantasy XI Small Banner.jpg"> 
 Since the 'free' GitHub has .5 GB of storage, and 1 GB of data transfers, I have included download links below for the Final Fantasy XI The Ultimate Collection Seekers Edition installers.
 
 North America:<br>
