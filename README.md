@@ -1,4 +1,4 @@
-![Final Fantasy XI Small Banner](Final Fantasy XI Small Banner.jpg "Final Fantasy XI Small Banner") 
+<img src="Final Fantasy XI Small Banner.jpg"> 
 # Final-Fantasy-XI
 FFXI Related Items Found Here.
 
